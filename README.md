@@ -50,4 +50,5 @@ Join our Discord server for:
 - 💡 Suggestions & ideas
 - 🤝 Community support
 
-👉 https://discord.gg/YOUR_INVITE_CODE
+👉 [https://discord.gg/YOUR_INVITE_CODE](https://discord.gg/TcdVBGudbW)
+
