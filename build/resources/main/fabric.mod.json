@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "chatgames",
+  "version": "1.0.0",
+  "name": "ChatGames",
+  "description": "Fun chat-based mini games",
+  "authors": ["Anbu"],
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.anbu.chatgames.ChatGamesMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.11"
+  }
+}
